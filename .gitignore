@@ -1,0 +1,23 @@
+# Compiler files
+cache/
+out/
+
+# Dotenv file
+.env
+
+# Modules
+node_modules
+
+# IDE
+.idea
+.vscode
+
+# Coverage
+lcov.info
+coverage
+
+# Contracts
+cache_hardhat
+cache_forge
+artifacts
+typechain-types
